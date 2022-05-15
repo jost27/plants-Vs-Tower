@@ -5,8 +5,9 @@
 <p align="center">Prueba Amber Studio <project-description></p>
   
   Tipos de torre
-  torre laser: largo alcance daño a un enemigo
-  torre rockets: corto alcance daño en aera
+  <img src="/images/towerlaser.png" alt="My cool logo"/>
+  torre laser: largo alcance daÃ±o a un enemigo
+  torre rockets: corto alcance daÃ±o en aera
   torre energi: brinda mas energia para construir mas torres
 
   tipos enemigos
@@ -27,7 +28,7 @@
   Unity 2020.3.30F1
 ## Author
 
-**Jose Mateo Aristizabal Patiño**
+**Jose Mateo Aristizabal PatiÃ±o**
 
 - [Profile](https://github.com/jost27 "Mateo Aristizabal")
 - [Email](mailto:josespoon@gmail.com?subject=Hi "fisherTactile")
