@@ -7,8 +7,14 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
+[Ll]ibrary/
+[Ll]ogs/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+[Ll]ibrary/
+[Ll]ogs/
+sysinfo.txt
+*.stackdump
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -42,7 +48,8 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
-
+.idea*
+*.pidb
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
@@ -57,4 +64,14 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
