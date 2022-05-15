@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0afae1113af94947b299d736ab98090, type: 3}
+  m_Name: Energy
+  m_EditorClassIdentifier: 
+  TowerName: EnergyTower
+  Life: 100
+  Damage: 50
+  SunCoinsCost: 50
+  Cadence: 15
+  MaxRangeShoot: 0
+  cardImage: {fileID: 21300000, guid: 7cd02aa26e0d6b34ebf710417f7bd69c, type: 3}
+  TowerPrefab: {fileID: 6131941240983333250, guid: bff8c4112ceb87c42a91998093c79970,
+    type: 3}

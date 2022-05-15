@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4479543043d3814d91cf8557b70c53d, type: 3}
+  m_Name: Simple
+  m_EditorClassIdentifier: 
+  EnemyName: Zombie Man
+  Life: 100
+  Damage: 10
+  Speed: 0.2
+  Cadence: 2
+  EnemyPrefab: {fileID: 3748212387119472210, guid: 31cb7b4a3bbcd9f4f95d38f8ff1d820f,
+    type: 3}
